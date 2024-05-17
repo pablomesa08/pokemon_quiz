@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Create Pokemon Quiz App with Next.js",
-  description: "Create Pokemon Quiz App with Next.js",
+  title: "Guess The Pokemon",
+  description: "Pokemon Quiz App with Next.js",
 };
 
 export default function RootLayout({
